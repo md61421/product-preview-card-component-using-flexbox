@@ -92,6 +92,10 @@ p {
   align-items: center;
 }
 
+.cart_btn:hover{
+  background-color: #2d614e;
+}
+
 @media screen and (min-width: 376px) {
   .card{
     width: 675px;
